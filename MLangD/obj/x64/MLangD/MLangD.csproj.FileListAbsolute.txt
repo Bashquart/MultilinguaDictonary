@@ -1,0 +1,33 @@
+C:\Users\Bashquart\Desktop\MLangD\MLangD.exe.config
+C:\Users\Bashquart\Desktop\MLangD\MLangD.exe.manifest
+C:\Users\Bashquart\Desktop\MLangD\MLangD.application
+C:\Users\Bashquart\Desktop\MLangD\MLangD.exe
+C:\Users\Bashquart\Desktop\Новая папка\MLangD.exe
+C:\Users\Bashquart\Desktop\Новая папка\MLangD.exe.config
+C:\Users\Bashquart\Desktop\Новая папка\MLangD.exe.manifest
+C:\Users\Bashquart\Desktop\Новая папка\MLangD.application
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.exe.config
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.LogIn.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.Menu.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.Properties.Resources.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.SignUp.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.csproj.GenerateResource.cache
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.csproj.CoreCompileInputs.cache
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.TrustInfo.xml
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.exe.manifest
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.application
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.csproj.CopyComplete
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.exe
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.csprojAssemblyReference.cache
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.Ba_Ru.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.Ba_Tt.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.Ba_Yu.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.En_Ba.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.En_Ru.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.En_Tt.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.En_Yu.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.Ru_Tt.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.Ru_Yu.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\x64\MLangD\MLangD.Tt_Yu.resources
+C:\Users\Bashquart\Desktop\Новая папка\MLangD.exe.CodeAnalysisLog.xml
+C:\Users\Bashquart\Desktop\Новая папка\MLangD.exe.lastcodeanalysissucceeded

@@ -1,0 +1,64 @@
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MLangD.exe.config
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MLangD.exe
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MLangD.pdb
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.Properties.Resources.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.csproj.GenerateResource.cache
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.csproj.CoreCompileInputs.cache
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.exe
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.pdb
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MySql.Data.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\Google.Protobuf.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\Zstandard.Net.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\Renci.SshNet.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\System.Buffers.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\System.Memory.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MySql.Data.xml
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.exe.config
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.csproj.CopyComplete
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.Menu.resources
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MLangD.exe.manifest
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MLangD.application
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\bin\Debug\ExcelLibrary.dll
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.TrustInfo.xml
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.exe.manifest
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.application
+C:\Users\Bashquart\Desktop\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.csproj.AssemblyReference.cache
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MLangD.exe.config
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MLangD.exe.manifest
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MLangD.application
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MLangD.exe
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MLangD.pdb
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\ExcelLibrary.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MySql.Data.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\Google.Protobuf.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\Zstandard.Net.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\Renci.SshNet.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\System.Buffers.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\System.Memory.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\bin\Debug\MySql.Data.xml
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.csproj.AssemblyReference.cache
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.exe.config
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.Menu.resources
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.Properties.Resources.resources
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.csproj.GenerateResource.cache
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.csproj.CoreCompileInputs.cache
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.TrustInfo.xml
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.exe.manifest
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.application
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.csproj.CopyComplete
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.exe
+C:\Users\Bashquart\Desktop\Новая папка\Archives\MLangD\MultilinguaDictonary\MLangD\obj\Debug\MLangD.pdb
